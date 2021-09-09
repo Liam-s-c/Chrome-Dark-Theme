@@ -1,3 +1,3 @@
 # chrome-theme
 A Chrome theme that i made for me!
-[download]()
+[download](https://github.com/Liam-s-c/Liams-Dark-Theme/releases)
